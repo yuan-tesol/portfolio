@@ -115,7 +115,7 @@ p {
   align-items: center;
   padding: clamp(58px, 8vw, 104px) 0 42px;
   overflow: hidden;
-  background-image: url("yuan-pltw-dark-hero.png");
+  background-image: url("assets/yuan-pltw-dark-hero.png");
   background-position: center;
   background-size: cover;
   color: #fff;
